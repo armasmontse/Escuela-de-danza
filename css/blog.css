@@ -1,0 +1,44 @@
+/* Section Blog */
+
+.blog{
+	background-color: #E5E6EB;
+	height: intrinsic;
+}
+.bckgris{
+	background-color: #D2D4DC;
+	height: intrinsic;
+}
+.articulo{
+	width: 100%;
+	background-size: 50%;
+	min-height: 240px;
+}
+/* Botón */
+
+.myButton{
+	box-shadow: 0px 10px 14px -7px #276873;
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#599bb3', endColorstr='#408c99',GradientType=0);
+	background-color: #192951;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	padding:10px 100px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+	margin-top: 4%;	
+}
+.myButton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #408c99), color-stop(1, #599bb3));
+	background:-moz-linear-gradient(top, #408c99 5%, #599bb3 100%);
+	background:-webkit-linear-gradient(top, #408c99 5%, #599bb3 100%);
+	background:-o-linear-gradient(top, #408c99 5%, #599bb3 100%);
+	background:-ms-linear-gradient(top, #408c99 5%, #599bb3 100%);
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#408c99', endColorstr='#599bb3',GradientType=0);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}

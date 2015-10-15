@@ -1,0 +1,49 @@
+/* Header */
+
+.font140{
+	font-size: 140%;
+	margin: 5%;
+}
+
+/* Section Nosotros */
+
+.nosotros{
+	background-image: url("../img/dance_71.jpg");
+	background-size: 100%;
+	/* height: intrinsic; */
+	height: 500px;
+}
+.opnegro{
+	width: 500px;
+	height: intrinsic;
+	background-color: #333333;
+	margin: 15% auto;
+	padding: 5%;
+}
+
+/* Section Pilar */
+
+.pilar{
+	background-image: url("../img/cubes.png");
+	width: 100%;
+	height: intrinsic;
+	padding: 0 3%;
+}
+
+/* Section Instructores */
+
+.font300{
+	font-size: 300%;
+}
+.hidden{
+	width: 100%;
+	height: 200px;
+	overflow: hidden;
+}
+.instructores{
+	width: 95%;
+	float: center;
+}
+
+/* Section Frase */
+

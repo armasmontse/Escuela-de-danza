@@ -1,0 +1,42 @@
+/* Section Oferta de clases */
+
+.bckgris{
+	height: intrinsic;
+}
+
+/* background */
+.back{
+	background-size: 98%;
+	height: 430px;
+	background-repeat: no-repeat;
+}
+
+.ballet{
+	background-image: url("../img/dance_12.jpg");
+}
+.dance{
+	background-image: url("../img/breakdance.jpg");
+}
+.jazz{
+	background-image: url("../img/lirical-jazz.jpg");			
+}
+
+.arabic{
+	background-image: url("../img/arabe.jpg");
+}
+.kids{
+	background-image: url("../img/little.jpg");
+}
+.yoga{
+	background-image: url("../img/yoga.jpg");
+}
+
+/* texto */
+.transparente{
+	width: 95%;
+	height: intrinsic;
+	margin: 45% auto;
+	background-color: #111;
+	opacity: .8;
+	padding: 20px 40px;
+}

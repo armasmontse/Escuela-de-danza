@@ -1,0 +1,54 @@
+/* Header */
+
+.font140{
+	font-size: 140%;
+	margin: 5%;
+}
+
+/* Section Contáctanos Zapatillas */
+
+.zapatillas{
+	background-image: url("../img/shoes_!.jpg");
+	background-size: 65%;
+	background-position: right center;
+	width: 100%;
+	height: 700px;
+	background-repeat: no-repeat;
+}
+form{
+	width: intrinsic;
+	margin: 5% 0;
+}
+form input{
+	height: 50px;
+	padding: 0 20px;
+	color: #999999;
+	text-align: left;
+	margin: 10px 0;
+	font-size: 110%;
+	background: none;
+	border: solid 2px;
+}
+form button{
+	width: 600px;
+	margin: 20px 0;
+	height: 70px;
+	background-color: #032142;
+	border-radius: 6px;
+	color: white;
+	font-size: 110%;
+}
+.w600{
+	width: 600px;
+}
+.mensaje{
+	height: 100px;
+}
+
+/* Footer */
+
+footer{
+	background-color: #032142;
+	width: 100%;
+	padding: 3% 0;
+}
